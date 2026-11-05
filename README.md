@@ -1,6 +1,6 @@
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-cube-root-240.html
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-gradient.html
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-matrix-dense.html
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-cube-root-200.html
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-gradient.html
-- https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-matrix-dense.html
+- [lch cube root](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-cube-root-240.html)
+- [lch gradient](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-gradient.html)
+- [lch matrix](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/lch-matrix-dense.html)
+- [oklch cube root](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-cube-root-200.html)
+- [oklch gradient](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-gradient.html)
+- [oklch matrix](https://www.romainmenke.com/gamut-mapping-d65-vs-d50/oklch-matrix-dense.html)
